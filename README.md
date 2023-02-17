@@ -1,6 +1,7 @@
 ﻿# PERN-Stack in React
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
 It is an app to save text notes, edit and delete when you deem convenient
 
 <img width="1266" alt="Screen Shot 2022-06-19 at 2 18 18 PM" src="https://github.com/toffycaluga/PERN-Stack/blob/main/client/src/assets/img/project-img.png">
@@ -8,6 +9,7 @@ It is an app to save text notes, edit and delete when you deem convenient
 Built using:
 
 - Front-end library: ReactJS
+
 -Back-end:ExpressJS
 
 In the /PERN-Stack and /PERN-Stack/client, you can run:
