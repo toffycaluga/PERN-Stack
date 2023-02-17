@@ -1,5 +1,4 @@
-﻿# PERN-Stack
-# Personal Portfolio Website in React
+﻿# PERN-Stack in React
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
